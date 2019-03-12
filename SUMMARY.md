@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [test](test.md)
+* [性能](xing-neng.md)
+  * [资源合并压缩](xing-neng/zi-yuan-he-bing-ya-suo.md)
 
