@@ -98,7 +98,7 @@ var a = someNode.cloneNode(false) //浅复制，只复制该节点，而不复�
 #### createDocumentFragment
 
 ```js
-var fragment = document.createDocumnetFragment()
+var fragment = document.createDocumentFragment()
 var ul =document.getElementById('myList')
 var li = null
 for (var i= 0;i<3;i++) {
