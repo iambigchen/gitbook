@@ -2,7 +2,7 @@
 > git log
 // 可以看到提交日志，拿到commitId后，执行git reset --hard commitId即可回退到那个commit版本
 
-> git reflo
+> git reflog
 // 通过回退后，回退版本之后的版本就会在git log中去除，所以想要再恢复到这些版本，拿到该版本的办法是 git reflog
 
 > git reset HEAD fileName
